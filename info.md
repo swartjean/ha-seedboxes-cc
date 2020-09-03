@@ -23,15 +23,13 @@ Platform | Description
 -- | --
 `sensor` | A set of sensors to provide seedbox-related statistics
 
+{% if not installed %}
 ## Installation
 
-1. Using the tool of choice open the directory (folder) for your HA configuration (where you find `configuration.yaml`).
-2. If you do not have a `custom_components` directory (folder) there, you need to create it.
-3. In the `custom_components` directory (folder) create a new folder called `seedboxes_cc`.
-4. Download _all_ the files from the `custom_components/seedboxes_cc/` directory (folder) in this repository.
-5. Place the files you downloaded in the new directory (folder) you created.
-6. Restart Home Assistant
-7. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for **"Seedboxes.cc"**
+1. Click install
+2. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for **"Seedboxes.cc"**
+
+{% endif %}
 
 ## Configuration is done in the UI
 
