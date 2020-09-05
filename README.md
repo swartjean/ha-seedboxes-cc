@@ -8,6 +8,8 @@
 [![maintainer][maintenance-shield]][maintainer]
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
+![logo][logoimg]
+
 This is a custom component to integrate with [Seedboxes.cc](https://seedboxes.cc/) and provide information and statics about your account.
 
 Some examples of the type of information provided:
@@ -37,6 +39,7 @@ Platform | Description
 
 <!---->
 
+[logoimg]: seedbox_logo.png
 [buymecoffee]: https://www.buymeacoffee.com/swartjean
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
 [commits-shield]: https://img.shields.io/github/commit-activity/y/swartjean/ha-seedboxes-cc.svg?style=for-the-badge

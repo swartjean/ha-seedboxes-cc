@@ -1,10 +1,21 @@
 {
+    "config": {
+        "step": {
+            "user": {
+                "title": "Configuration",
+                "description": "Please [enable API access](https://seedboxes.cc/client/settings) and paste your Seedboxes.cc API key below.",
+                "data": {
+                    "api_key": "Seedboxes.cc API Key"
+                }
+            }
+        }
+    },
     "options": {
         "step": {
             "user": {
                 "data": {
                     "scan_period": "Scan Period (s)",
-                    "sensor": "Enable Sensor"
+                    "sensor": "Enable Sensors"
                 }
             }
         }
