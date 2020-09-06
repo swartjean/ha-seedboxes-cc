@@ -35,11 +35,13 @@ Platform | Description
 6. Restart Home Assistant
 7. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for **"Seedboxes.cc"**
 
-## Configuration is done in the UI
+## Configuration
+
+All configuration is carried out in the UI. You will need to enter your Seedboxes.cc API key, [which can be obtained here](https://seedboxes.cc/client/settings).
 
 <!---->
 
-[logoimg]: seedbox_logo.png
+[logoimg]: https://raw.githubusercontent.com/swartjean/ha-seedboxes-cc/main/seedbox_logo.png
 [buymecoffee]: https://www.buymeacoffee.com/swartjean
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
 [commits-shield]: https://img.shields.io/github/commit-activity/y/swartjean/ha-seedboxes-cc.svg?style=for-the-badge
