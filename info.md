@@ -45,7 +45,7 @@ All configuration is carried out in the UI. You will need to enter your Seedboxe
 [commits-shield]: https://img.shields.io/github/commit-activity/y/swartjean/ha-seedboxes-cc.svg?style=for-the-badge
 [commits]: https://github.com/swartjean/ha-seedboxes-cc/commits/main
 [hacs]: https://github.com/custom-components/hacs
-[hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
+[hacsbadge]: https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/swartjean/ha-seedboxes-cc.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Jean%20Swart%20%40swartjean-blue.svg?style=for-the-badge
 [maintainer]: https://github.com/swartjean
