@@ -10,7 +10,7 @@
 
 ![logo][logoimg]
 
-This is a custom component to integrate with [Seedboxes.cc](https://seedboxes.cc/) and provide information and statics about your account.
+This is a custom component to integrate with [Seedboxes.cc](https://seedboxes.cc/) and provide information and statistics about your account.
 
 Some examples of the type of information provided:
 
