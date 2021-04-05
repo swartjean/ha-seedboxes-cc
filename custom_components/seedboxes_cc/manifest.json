@@ -5,7 +5,7 @@
   "issue_tracker": "https://github.com/swartjean/ha-seedboxes-cc/issues",
   "dependencies": [],
   "config_flow": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "codeowners": [
     "@swartjean"
   ],
