@@ -20,7 +20,6 @@ class SeedboxFlowHandler(config_entries.ConfigFlow, domain=DOMAIN):
     """Config flow for Seedboxes.cc integration"""
 
     VERSION = 1
-    CONNECTION_CLASS = config_entries.CONN_CLASS_CLOUD_POLL
 
     def __init__(self):
         """Initialize."""
@@ -72,7 +71,6 @@ class SeedboxOptionsFlowHandler(config_entries.OptionsFlow):
 
     def __init__(self, config_entry):
         """Initialize HACS options flow."""
-        self.config_entry = config_entry
         self.options = dict(config_entry.options)
 
     async def async_step_init(self, user_input=None):  # pylint: disable=unused-argument
