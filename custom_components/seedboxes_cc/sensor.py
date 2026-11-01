@@ -52,7 +52,7 @@ class SeedboxStatusSensor(SeedboxBaseEntity):
         return self._icon
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         """Return the state attributes."""
         return {
             NAME_TORRENT_CLIENT: self.coordinator.data.get(NAME_TORRENT_CLIENT),
